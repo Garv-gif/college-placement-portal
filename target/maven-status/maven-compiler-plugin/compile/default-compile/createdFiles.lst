@@ -1,0 +1,16 @@
+com\college\collegeplacementportal\ApplyServlet.class
+com\college\collegeplacementportal\DBConnection.class
+com\college\collegeplacementportal\AdminLogoutServlet.class
+com\college\collegeplacementportal\PasswordUtil.class
+com\college\collegeplacementportal\AdminLoginServlet.class
+com\college\collegeplacementportal\UpdateApplicationStatusServlet.class
+com\college\collegeplacementportal\AdminRegisterServlet.class
+com\college\collegeplacementportal\TestConnection.class
+com\college\collegeplacementportal\LogoutServlet.class
+com\college\collegeplacementportal\LoginServlet.class
+com\college\collegeplacementportal\JakartaRestConfiguration.class
+com\college\collegeplacementportal\AddJobServlet.class
+com\college\collegeplacementportal\RegisterServlet.class
+com\college\collegeplacementportal\resources\JakartaEE11Resource.class
+com\college\collegeplacementportal\DeleteJobServlet.class
+com\college\collegeplacementportal\EditJobServlet.class
